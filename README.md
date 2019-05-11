@@ -12,6 +12,15 @@ The canceled ticket can be offered to other customers as a last-minute ticket.
 
 ### Technical implementation
 
+#### UI upgrades
+
+Our solution has minimal UI ugrades. They would only involve adding an option for aditional insurance withing the uprchasing and/or booking procedure. 
+
+#### API upgrades 
+
+Our solution changes some APIs, through which we push ML results.
+
+
 #### Machine learning and predicting time series data
 
 Python worker that uses prediction algorythm that uses time series data for creating a forcast in sales in flight popularity.
