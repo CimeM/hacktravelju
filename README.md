@@ -24,3 +24,8 @@ We used ARMIA model for time series forcasting together with python.
 Research paper: https://journals.sagepub.com/doi/full/10.1177/1847979018808673
 
 The code is published in ARMIA.py
+
+Link to presentation:
+https://readymag.com/u37053732/1409808/
+Google sheets link:
+https://docs.google.com/presentation/d/1ka1-Qax6-R7iEn3olsu9JyJbFzs0Z8QF3mb3AT2YCyY/edit?usp=sharing
