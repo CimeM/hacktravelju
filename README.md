@@ -2,6 +2,14 @@
 
 - Team: White Harbor
 
+### Idea
+The idea of our solution is to use machine learning to predict prices and confidence levels on ticket sales. Kiwi would purchase tickets in bulk and sell them when the prices get higher.
+
+The insurance that kiwi tickets would get sold relies solely on data prediction. Because kiwi has resources on historical data for flights.
+
+This way, we can offer customers a special insurance or "kiwinsurance" that offers them to get better returns if they cancel their flight.
+The canceled ticket can be offered to other customers as a last-minute ticket. 
+
 ### Technical implementation
 
 #### Machine learning and predicting time series data
